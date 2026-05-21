@@ -1,0 +1,11 @@
+com\agentorchestrator\core\Agent.class
+com\agentorchestrator\core\AgentStateMachine.class
+com\agentorchestrator\core\ChatRole.class
+com\agentorchestrator\core\SerializationEngine$Snapshot.class
+com\agentorchestrator\core\AgentCoreVerificationMain.class
+com\agentorchestrator\core\StateTransitionException.class
+com\agentorchestrator\core\AgentState.class
+com\agentorchestrator\core\ChatMessage.class
+com\agentorchestrator\core\MemoryRepository.class
+com\agentorchestrator\core\SerializationEngine.class
+com\agentorchestrator\core\SlidingWindowMemory.class

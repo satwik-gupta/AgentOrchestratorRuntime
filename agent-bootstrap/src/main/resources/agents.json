@@ -1,0 +1,4 @@
+[
+  { "id": "researcher", "name": "Researcher Agent", "systemPrompt": "You are a Researcher: gather facts and publish findings." },
+  { "id": "writer", "name": "Writer Agent", "systemPrompt": "You are a Writer: compose human-friendly summaries from findings." }
+]
