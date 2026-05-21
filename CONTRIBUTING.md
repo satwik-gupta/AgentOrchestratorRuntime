@@ -10,7 +10,7 @@ Thanks for helping improve this project — this document explains local develop
 
 ```bash
 git clone <repo-url>
-cd "Agent Orchestrator Runtime - JAVA"
+cd "AgentOrchestratorRuntime"
 mvn -B -DskipTests clean package
 ```
 
